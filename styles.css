@@ -5,7 +5,7 @@
 }
 
 .container {
-    width: 40%;
+    width: 35%;
     margin: 0 auto;
     text-align: center;
     padding-top: 50px;
@@ -24,6 +24,7 @@ td {
 }
 
 button {
+    width: 300px;
     font-size: 20px;
-    margin-top: 50px;
+    margin: 50px 0;
 }
